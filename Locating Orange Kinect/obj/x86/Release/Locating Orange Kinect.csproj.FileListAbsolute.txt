@@ -1,0 +1,17 @@
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Release\Locating Orange Kinect.exe
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Release\Locating Orange Kinect.pdb
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Release\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\MainWindow.baml
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\MainWindow.g.cs
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\App.g.cs
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\Locating Orange Kinect_MarkupCompile.cache
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\Locating Orange Kinect.g.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\Locating_Orange_Kinect.Properties.Resources.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\Locating Orange Kinect.exe
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\Locating Orange Kinect.pdb
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\Locating Orange Kinect.exe
+C:\Users\Sebastian\Documents\Old Computer\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Release\Locating Orange Kinect.pdb

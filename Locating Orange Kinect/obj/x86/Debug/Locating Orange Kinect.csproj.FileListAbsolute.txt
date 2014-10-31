@@ -1,0 +1,30 @@
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\bin\Debug\Locating Orange Kinect.exe
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\bin\Debug\Locating Orange Kinect.pdb
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\MainWindow.baml
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\App.g.cs
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect_MarkupCompile.cache
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect.g.resources
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\Locating_Orange_Kinect.Properties.Resources.resources
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect.exe
+C:\Users\sebastian\AppData\Local\Temporary Projects\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect.pdb
+C:\Users\sebastian\documents\visual studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect.exe
+C:\Users\sebastian\documents\visual studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect.pdb
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\MainWindow.baml
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\MainWindow.g.cs
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\App.g.cs
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect_MarkupCompile.cache
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\Locating Orange Kinect.g.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\Locating_Orange_Kinect.Properties.Resources.resources
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Debug\Locating Orange Kinect.exe
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Debug\Locating Orange Kinect.pdb
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\sebastian\Documents\Visual Studio 2010\Projects\Locating Orange Kinect\Locating Orange Kinect\bin\Debug\Microsoft.Expression.Drawing.dll

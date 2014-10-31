@@ -1,0 +1,9 @@
+﻿<Window x:Class="Locating_Orange_Kinect.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="597" Width="1047" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid>
+        <Image Height="480" HorizontalAlignment="Left" Margin="12,27,0,0" Name="rgbImageContainer" Stretch="Fill" VerticalAlignment="Top" Width="640" />
+        <Image Height="240" HorizontalAlignment="Left" Margin="678,27,0,0" Name="regularImageContainer" Stretch="Fill" VerticalAlignment="Top" Width="320" />
+    </Grid>
+</Window>
